@@ -1,1 +1,1 @@
-# gas_price_worldwide
+# gas_prices_worldwide
